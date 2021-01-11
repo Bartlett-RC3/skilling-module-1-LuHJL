@@ -47,7 +47,7 @@ public class Session2_OG : MonoBehaviour {
             Debug.Log(tutorName);
         }
 
-        // Condtions
+        // Conditions
         if (number1 < number2){ // Question
             // Action if true
             Debug.Log("Number 1 is smaller than number 2");
